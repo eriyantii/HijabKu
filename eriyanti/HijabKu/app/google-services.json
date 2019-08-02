@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930122762247",
+    "firebase_url": "https://hijabku-2c656.firebaseio.com",
+    "project_id": "hijabku-2c656",
+    "storage_bucket": "hijabku-2c656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930122762247:android:25208e6c060135de",
+        "android_client_info": {
+          "package_name": "com.example.hijabku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930122762247-na6igolq3if3seg220nmlv52t0al9ps0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hijabku",
+            "certificate_hash": "71be7a06564cc8e0c79d605e0f6295d7858dbca0"
+          }
+        },
+        {
+          "client_id": "930122762247-7oj0375hqak0tv7kuff1u90aukjmnlb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAbnSVjIQt2Notp30rE7DtOD3H3RdmEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930122762247-7oj0375hqak0tv7kuff1u90aukjmnlb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

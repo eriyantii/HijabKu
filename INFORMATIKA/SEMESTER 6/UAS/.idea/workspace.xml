@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a4320da-9944-498e-ba5b-eacadc392668" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/java/com/example/hijabku/DetailModelMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/java/com/example/hijabku/ModelMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/java/com/example/hijabku/model/ItemClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/drawable/ootd12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/layout/activity_menu_isi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/layout/activity_model_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/layout/slide1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/layout/slide2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/HijabKu/app/src/main/res/values/refs.xml" afterDir="false" />
+      <change afterPath="E:/asfia/Asfia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="E:/asfia/Asfia/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="E:/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="E:/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/app/.gitignore" beforeDir="false" />
+      <change beforePath="E:/app/build.gradle" beforeDir="false" />
+      <change beforePath="E:/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="E:/app/src/androidTest/java/com/android/mels/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/DailyFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/GalleryFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/HomeActivity.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/HomeFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/HttpHandler.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/MainActivity.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/MusicVideoFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/PagerAdapterActivity.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/ProfileFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/TipsDetailFragment.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/java/com/android/mels/WalkthroughActivity.java" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/color/nav_items_color.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-hdpi/logo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-mdpi/logo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/bg.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/cov.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/dt.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/tp.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-v24/wr.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-xhdpi/logo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-xxhdpi/logo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable-xxxhdpi/logo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/a.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/aa.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/aaa.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/aaaa.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/amel.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/b.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/bc.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/border_radius.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/dddd.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/gradientbackground.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/hua.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ic_email_black_24dp.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ic_forum_black_24dp.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ic_group_add_black_24dp.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ic_phone_black_24dp.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/image_gradient.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/kulit.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/line_background.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/oo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/ooo.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/polos.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/profil.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/skin.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/tips.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/x.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/xx.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/xxx.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/drawable/xxxx.jpg" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_slide.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_slide2.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_slide3.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/activity_walkthrough.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/cardview_item_gallery.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_daily.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_gallery.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_music_video.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/fragment_tips_detail.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/layout/list_item_daily.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/menu/nav_items.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/values/drawables.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="E:/app/src/test/java/com/android/mels/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="E:/build.gradle" beforeDir="false" />
+      <change beforePath="E:/gradle.properties" beforeDir="false" />
+      <change beforePath="E:/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="E:/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="E:/gradlew" beforeDir="false" />
+      <change beforePath="E:/gradlew.bat" beforeDir="false" />
+      <change beforePath="E:/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UAS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UAS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UAS" type="462c0819:PsiDirectoryNode" />
+              <item name="HijabKu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HijabKu" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a4320da-9944-498e-ba5b-eacadc392668" name="Default Changelist" comment="" />
+      <created>1564652670589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564652670589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3296131" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
