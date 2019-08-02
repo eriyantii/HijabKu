@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="Cari Katalog Disini!"
+        android:text="find your OOTD!"
         android:textColor="@color/putih"
         android:textSize="25sp"
         android:layout_marginBottom="20sp"
